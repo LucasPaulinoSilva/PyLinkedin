@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pylinkedin"
+version = "0.1.0"
+description = "Bot de Scrapping para procura de vagas no Linkedin e envio dos dados para o Telegram"
+authors = ["Lucas Paulino <lucas.paulino100@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+httpx = "^0.25.1"
+parsel = "^1.8.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.11.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
