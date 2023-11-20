@@ -2,7 +2,7 @@
 name = "pylinkedin"
 version = "0.1.0"
 description = "Bot de Scrapping para procura de vagas no Linkedin e envio dos dados para o Telegram"
-authors = ["Lucas Paulino <lucas.paulino100@gmail.com>"]
+authors = ["Nome <@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
